@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Jagadeesh
 
-<!--
-**jagadeesh14s/jagadeesh14s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate in Artificial Intelligence & Machine Learning (AI & ML)
 
-Here are some ideas to get you started:
+💻 Passionate about Machine Learning, Cybersecurity, Data Analytics, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning SQL and enhancing my Python skills for Data Science and Machine Learning
+* 💡 Interested in solving real-world problems using AI
+* 🔭 Building projects to improve my technical skills
+* 📚 Constantly exploring new technologies and tools
+
+## 🛠️ Skills
+
+* Python
+* SQL
+* Machine Learning
+* Data Science
+* MySQL
+* Git & GitHub
+* HTML
+* CSS
+* JavaScript
+
+## 🚀 Projects
+
+* 🩸 Blood In Need – Blood donation web application
+* 🤖 Smart AI Learning Companion – AI-powered interactive learning assistant with voice and visual interaction for classrooms.
+
+## 🎓 Certifications
+
+* Palo Alto Cybersecurity Virtual Internship
+
+## 📫 Connect With Me
+
+📧 Email: jagadeeshgudipudi03@gmail.com
+
+💼 LinkedIn: [Jagadeesh Gudipudi](https://www.linkedin.com/in/jagadeesh-gudipudi-b4b2b5275/)
+
+💻 GitHub: [jagadeesh14s](https://github.com/jagadeesh14s)
+
+⭐ Passionate about AI, Machine Learning, and continuous learning.
