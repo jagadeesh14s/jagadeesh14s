@@ -2,7 +2,7 @@
 
 🎓 Graduate in Artificial Intelligence & Machine Learning (AI & ML)
 
-💻 Passionate about Machine Learning, Cybersecurity, Data Analytics, and Software Development.
+💻 Passionate about Machine Learning, Artificial Intelligence, Cybersecurity, Data Analytics, and Software Development.
 
 * 🌱 Currently learning SQL and enhancing my Python skills for Data Science and Machine Learning
 * 💡 Interested in solving real-world problems using AI
@@ -16,7 +16,6 @@
 * Machine Learning
 * Data Science
 * MySQL
-* Git & GitHub
 * HTML
 * CSS
 * JavaScript
@@ -29,6 +28,8 @@
 ## 🎓 Certifications
 
 * Palo Alto Cybersecurity Virtual Internship
+* Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+* Python Essentials 1 – Cisco Networking Academy & Python Institute
 
 ## 📫 Connect With Me
 
